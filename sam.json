@@ -1,0 +1,49 @@
+{
+    "name": "Sam Sundar.A",
+    "email": "a.samsundar12@gmail.com",
+    "$schema": "https://github.com/Samsundar012",
+    "phone": "9600251358",
+    "age": "25",
+    "Language Known": "English,Tamil",
+    "location": {
+        "address":"22, Bastin nagar 2nd street",
+        "postalCode": " 625016",
+        "city": "Madurai",
+        "state":"TamilNadu",
+        "country": "India"
+    },
+
+    "carrerobjective":
+        {
+         "objective"  : "Highly organized and hard-working individual looking for a responsible position practical experience",
+
+            "Work Experience" : "Working as a Process Associate at Solartis Technology services Pvt. Ltd.",  
+        },
+{
+    "education": " Completed Master of Bussiness Administration in Human Resource with First class at  Madurai Kamaraj University (2018-2020)",
+      "Bachelordegree"   :     " Completed Bachelor degree on Microbiology with First class at Thiagarajar College(2015-2018)",
+             "school"   :    "Completed HSC (2015) and SSLC (2013) with First class and Distinction",
+},
+        
+{
+"skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    },
+    {
+        "other skills": "Motivational speaking,Problem solving,Entrepreneurial skills.
+                        Interpersonal skills.
+                         Ability to handle pressure.
+                        Stress management.
+                         Leadership skills Good communication"
+    }
+    ]
+
+}
+}
